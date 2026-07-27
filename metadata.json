@@ -1,0 +1,7 @@
+{
+  "name": "Rasheed Islamic Education",
+  "description": "Production-ready Islamic Education app with Digital Library, Darjat Curriculum, Book Viewer, AI Assistant, Prayer Times, Qibla, Tasbeeh & Quizzes.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
