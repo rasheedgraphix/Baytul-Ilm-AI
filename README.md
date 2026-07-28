@@ -160,14 +160,15 @@ API Keys and Sensitive Configs are managed via `BuildConfig` and local environme
 
 ## 📱 Screenshots
 
-| Login & Authentication | Home Dashboard | AI Scholar |
-| :---: | :---: | :---: |
-| *Clean Material 3 Login with Google Sign-In* | *Quick access to Dars-e-Nizami, Prayer & LMS* | *24/7 AI-assisted Islamic Q&A & Tutoring* |
+| Login | Home Dashboard | AI Scholar |
+|--------|----------------|------------|
+| ![](screenshots/Screenshot_20260728-065637.png) | ![](screenshots/Screenshot_20260728-065353.png) | ![](screenshots/Screenshot_20260728-065404.png) |
+| Clean Material 3 Login with Google Sign-In | Quick access to Dars-e-Nizami, AI Scholar & LMS | 24/7 AI-assisted Islamic Q&A and tutoring |
 
-| Dars-e-Nizami Library | Prayer & Qibla Tools | Admin Control Panel |
-| :---: | :---: | :---: |
-| *Organized PDF Kutub curriculum* | *Accurate Salah times & Qibla direction* | *Role-based management & user permissions* |
-
+| Digital Library | Prayer Times | User Profile |
+|-----------------|--------------|--------------|
+| ![](screenshots/Screenshot_20260728-065414.png) | ![](screenshots/Screenshot_20260728-065433.png) | ![](screenshots/Screenshot_20260728-065625.png) |
+| Organized PDF Kutub curriculum | Accurate Salah timings and prayer utilities | User profile and account management |
 ---
 
 ## 🔮 Future Improvements
