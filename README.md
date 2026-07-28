@@ -101,7 +101,7 @@ Traditional Islamic education and Dars-e-Nizami studies face several digital acc
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-org/baytul-ilm-ai.git
+   git clone https://github.com/rasheedgraphix/Baytul-Ilm-AI.git
    cd baytul-ilm-ai
    ```
 
